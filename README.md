@@ -17,5 +17,9 @@ stylsheet.css
 
 Github Repo Link:https://github.com/leonaysmael16/personal-portfolio
 
-Deployed link:
+Deployed link: https://leonaysmael16.github.io/personal-portfolio/
+
+# License 
+
+This project is licensed under the MIT license
 

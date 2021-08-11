@@ -1,0 +1,51 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #9AC791;
+}
+
+.header {
+    text-align: center;
+    background-color: teal;
+    color: thistle;
+    justify-content: space-between;
+}
+
+.header h1 {
+    display: inline-block;
+    text-align: center;
+}
+
+.header ul {
+    color: thistle;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .footer {
+      text-align: center;
+
+  }
+
+  .corgs {
+    height: 100px;
+    width: 400px;
+  }
+
+  .about-h2 {
+      text-align: center;
+  }
+
+  .work-h2 {
+      text-align: center;
+  }

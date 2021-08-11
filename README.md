@@ -13,5 +13,9 @@ Welcome to my personal portfolio, this projects contains links to my github acco
 index.html
 stylsheet.css
 
-## Deployed Links:
+## Links:
+
+Github Repo Link:https://github.com/leonaysmael16/personal-portfolio
+
+Deployed link:
 

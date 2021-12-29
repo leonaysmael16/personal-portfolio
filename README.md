@@ -1,4 +1,4 @@
-# personal-portfolio
+
 
 # Personal Portfolio 
 
@@ -15,7 +15,7 @@ stylsheet.css
 
 ## Links:
 
-Github Repo Link:https://github.com/leonaysmael16/personal-portfolio
+Github Repo: Link:https://github.com/leonaysmael16/personal-portfolio
 
 Deployed link: https://leonaysmael16.github.io/personal-portfolio/
 
